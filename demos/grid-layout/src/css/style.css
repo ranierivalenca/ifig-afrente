@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container > * {
+  text-align: center;
+  color: white;
+  font-size: 2rem;
+}
+
+.container > header {
+  background: linear-gradient(to right bottom, #2998ff, #5643fa);
+}
+
+.container > main {
+  background: linear-gradient(to right bottom, #28b485, #7ed56f);
+}
+
+.container > aside {
+  background: linear-gradient(to right bottom, #ffb900, #ff7300);
+}
+
+.container > footer {
+  background: linear-gradient(to right bottom, #ff2900, #ff7300);
+}
