@@ -6,7 +6,7 @@ Quando um elemento da page possui a propriedade `display: grid;` um ícone grid 
 <img src="https://1.bp.blogspot.com/-Z5N_3WQ9EHA/XYFfHdiFNtI/AAAAAAAARH8/7mjy-H0Dor8k85oMdzPkfJbnG0bQczR1wCLcBGAsYHQ/s1600/Peek%2B2019-09-17%2B19-27.gif" alt="Banana" />
 
 
-#  Prorprieades
+#  Proprieades
 
 Existem dois tipo de propriedade no grid, as propriedade do grid container e do grid item. Container é o elemento que envolve uma serie de outros elemento logo ele chamamos ele de "elemento pai" e os elementos contido nele de "elementos filho".
 ```
